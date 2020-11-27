@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="398mm"
+   height="330mm"
+   viewBox="0 0 398 330"
    version="1.1"
    id="svg8"
    sodipodi:docname="box, bjartur.svg"
@@ -98,7 +98,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35145678"
      inkscape:cx="630.90289"
-     inkscape:cy="271.3481"
+     inkscape:cy="327.30567"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -121,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,11 +133,11 @@
        id="g1422">
       <g
          id="g1477"
-         style="stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </g>
     <g
        id="panel6697"
-       transform="translate(-112.96206,-22.709905)"
+       transform="translate(-51.230904,5.1443971)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -162,7 +162,7 @@
     </g>
     <g
        id="g1413"
-       transform="translate(-466.74777,7.5281898)"
+       transform="translate(-405.01661,35.382492)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -184,7 +184,7 @@
     </g>
     <g
        id="panel2942"
-       transform="translate(205.61427,-43.990445)"
+       transform="translate(267.34543,-16.136143)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -213,7 +213,7 @@
     </g>
     <g
        id="panel6690"
-       transform="translate(202.96049,-251.89539)"
+       transform="translate(264.69165,-224.04109)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -237,7 +237,7 @@
     </g>
     <g
        id="panel7287"
-       transform="translate(-112.96206,-22.709905)"
+       transform="translate(-51.230904,5.1443971)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -286,7 +286,7 @@
     </g>
     <g
        id="panel3591"
-       transform="translate(-97.152861,-39.271923)"
+       transform="translate(-35.421705,-11.417621)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -315,7 +315,7 @@
     </g>
     <g
        id="g893"
-       transform="translate(-39.146587,126.47359)">
+       transform="translate(22.584569,154.32789)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 184.63794,35.490095 h 17.795 v 1.4 l 0.1,0.1 v 0.1 l -0.1,0.1 v 1.4 h 14.81 v -1.4 l -0.1,-0.1 v -0.1 l 0.1,-0.1 v -1.4 h 17.89 v 1.4 l 0.1,0.1 v 0.1 l -0.1,0.1 v 1.4 h 14.81 v -1.4 l -0.1,-0.1 v -0.1 l 0.1,-0.1 v -1.4 h 17.89 v 1.4 l 0.1,0.1 v 0.1 l -0.1,0.1 v 1.4 h 14.81 v -1.4 l -0.1,-0.1 v -0.1 l 0.1,-0.1 v -1.4 h 17.89 v 1.4 l 0.1,0.1 v 0.1 l -0.1,0.1 v 1.4 h 14.81 v -1.4 l -0.1,-0.1 v -0.1 l 0.1,-0.1 v -1.4 h 17.89 v 1.4 l 0.1,0.1 v 0.1 l -0.1,0.1 v 1.4 h 14.81 v -1.4 l -0.1,-0.1 v -0.1 l 0.1,-0.1 v -1.4 h 17.795"
@@ -335,11 +335,11 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 44.508945,261.62127 v 14.81 h 3.1 v -14.81 h -3.1"
+       d="m 106.2401,289.47557 v 14.81 h 3.1 v -14.81 h -3.1"
        id="path1396" />
     <g
        id="panel1438"
-       transform="translate(-112.96206,-22.709905)"
+       transform="translate(-51.230904,5.1443971)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
